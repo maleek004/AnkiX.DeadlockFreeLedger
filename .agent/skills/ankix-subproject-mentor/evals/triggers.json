@@ -1,0 +1,21 @@
+[
+  { "query": "suggest a sub-project I can mine from AnkiX next", "should_trigger": true },
+  { "query": "let's plan a sub-project around the AI credit ledger before we scaffold anything", "should_trigger": true },
+  { "query": "I'm on my work laptop in the deadlock-free-ledger repo, resume the sub-project where I left off", "should_trigger": true },
+  { "query": "I pushed layer 2 from the other machine, sync the sub-project and answer the parked questions", "should_trigger": true },
+  { "query": "shoot an azimuth: compare my kata's lock ordering with what AnkiX actually does", "should_trigger": true },
+  { "query": "give me a weekend kata about Redis cache-aside, I want to build it myself", "should_trigger": true },
+  { "query": "start the kata for isolated-process-sandbox, I'll drive", "should_trigger": true },
+  { "query": "what's the next unchecked box in plan.md for this kata?", "should_trigger": true },
+  { "query": "scaffold the expedition pack for the ledger kata so I can push it", "should_trigger": true },
+
+  { "query": "explain how AiCreditService.cs works", "should_trigger": false },
+  { "query": "walk me through the QuizHub SignalR code line by line", "should_trigger": false },
+  { "query": "write a LinkedIn deep dive about the deadlock fix", "should_trigger": false },
+  { "query": "implement /exercises?id= deep-linking in Exercises.jsx", "should_trigger": false },
+  { "query": "create the next story in the sprint plan", "should_trigger": false },
+  { "query": "sync my fork with upstream main", "should_trigger": false },
+  { "query": "generate anki flashcards for what we discussed about postgres locks", "should_trigger": false },
+  { "query": "plan the next sprint for AnkiX epics", "should_trigger": false },
+  { "query": "help me brainstorm ideas for the AnkiX landing page", "should_trigger": false }
+]

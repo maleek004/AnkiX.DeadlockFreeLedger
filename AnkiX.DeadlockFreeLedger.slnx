@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AnkiX.DeadlockFreeLedger.Cli/AnkiX.DeadlockFreeLedger.Cli.csproj" />
+    <Project Path="src/AnkiX.DeadlockFreeLedger/AnkiX.DeadlockFreeLedger.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AnkiX.DeadlockFreeLedger.Tests/AnkiX.DeadlockFreeLedger.Tests.csproj" />
+  </Folder>
+</Solution>
